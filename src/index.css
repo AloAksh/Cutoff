@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-color: #D8EFD3;
+    color: #386f64;
+    font-family:'Courier New', Courier, monospace;
+}
+
+footer, header{
+    background-color: #95D2B3;
+    color: #F1F8E8;
+    font-weight: 300;
+}
+
+input{
+    background-color: #95D2B3;
+    color: #F1F8E8;
+}
